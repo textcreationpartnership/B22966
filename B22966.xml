@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The first part of the widdow of Watling street &amp; her three daughters, &amp; how her wicked .[sic]son accused her to be an harlot, and his sisters bastards. To the tune of Bragandary.</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22966</idno><idno type="EEBO-CITATION">99887785</idno>
+  <idno type="VID">192696</idno>
+  <idno type="EEBO-PROQUEST">2240898506</idno>
+  
+            <idno type="STC">Wing F980</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.9[168]</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.9[169]</idno>
+            <idno type="STC">ESTC R228349</idno>
+            <idno type="PROQUEST">ocm99887785</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99887785e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22966)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192696)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A6:1[97])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The first part of the widdow of Watling street &amp; her three daughters, &amp; how her wicked .[sic]son accused her to be an harlot, and his sisters bastards. To the tune of Bragandary.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Fr. Cowles,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1650?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication and date from STC.</note>
+                  <note>Verse: "Of the kinde Widdow of Watling street".</note>
+                  <note>In two parts; the second part has title: The second part of the Widdow of Watling street and her three daughters to the tune of, the Wanton wife.</note>
+                  <note>Copy cut and mounted.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <div n="1" type="part">
+               <pb facs="tcp:192696:1"/>
+               <head>The first part of the Widdow of Watling street &amp; her three daughters, &amp; how her wicked Son accused her to be an harlot, and his sisters Bastards.</head>
+               <opener>To the tune of Bragandary.</opener>
+               <lg>
+                  <l>OF the kinde Widdow of Watling stréet</l>
+                  <l>I will the story tell,</l>
+                  <l>Who by her husband déere was left,</l>
+                  <l>In substance very well;</l>
+                  <l>A prodigall sonne likewise had she,</l>
+                  <l>And faire young daughters louely thrée?</l>
+                  <l>
+                     <hi>Great misery, sorrow and misery,</hi>
+                  </l>
+                  <l>
+                     <hi>Commeth for want of grace.</hi>
+                  </l>
+                  <l>For by his daily practises,</l>
+                  <l>which were both lewd and ill,</l>
+                  <l>His fathers heart from him was drawne,</l>
+                  <l>His loue and his good will.</l>
+                  <l>But yet what chance so ere befell,</l>
+                  <l>his mother lou'd him dearely well,</l>
+                  <l>When in prison lay full poore,</l>
+                  <l>for debt that he did owe,</l>
+                  <l>His father would not stirre out of doores,</l>
+                  <l>For to release his woe.</l>
+                  <l>But when his mother his griefe did sée,</l>
+                  <l>shee found the meanes to set him frée.</l>
+                  <l>And when her husband fell full s<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cke,</l>
+                  <l>and went to make his will,</l>
+                  <l>O husband remember your sonne she sayd,</l>
+                  <l>Although he hath beene ill:</l>
+                  <l>But yet no doubt he may returne,</l>
+                  <l>repenting the euill he hath done.</l>
+                  <l>Remember wife what sorrow and care,</l>
+                  <l>through him I daily found:</l>
+                  <l>Who through his lewd vngracious déedes,</l>
+                  <l>Hath spent me many a pound:</l>
+                  <l>And therefore let him sinke or swim,</l>
+                  <l>I means not for to deale with him.</l>
+                  <l>And therefore sole Executor heere,</l>
+                  <l>I doe thee onely make:</l>
+                  <l>To pay thy debts &amp; legacies, the rest vnto thée take,</l>
+                  <l>Not so my husband deare (quoth she)</l>
+                  <l>but lat your sonne be ioynd with me:</l>
+                  <l>For why he is our child (she sayd)</l>
+                  <l>we can it not denie.</l>
+                  <l>The first that euer graced you</l>
+                  <l>With fathers dignitie,</l>
+                  <l>Oh, that euer you did me loue,</l>
+                  <l>grant this request for his behoue.</l>
+                  <l>Thy loue deare wife was euermore,</l>
+                  <l>most precious vnto me:</l>
+                  <l>And therefore for thy sweet loues sake</l>
+                  <l>I grant thy suit to thée.</l>
+                  <l>But ere one yeare be fully spent,</l>
+                  <l>I know thou wilt the same repent.</l>
+                  <l>Now was his sonne receiued home,</l>
+                  <l>and with his mother deare,</l>
+                  <l>Was ioynd Executor of the Will,</l>
+                  <l>which did his courage cheere:</l>
+                  <l>The old man dying, buried was,</l>
+                  <l>but now behold what came to passe.</l>
+                  <l>The funerall being ended quite, it fell vpon a day</l>
+                  <l>some friend did fetch the Widdow forth,</l>
+                  <l>To driue conceits away,</l>
+                  <l>While she was forth and thought no ill,</l>
+                  <l>her wicked sonns doth worke his will.</l>
+                  <l>Possession of the house he took, in most despite full wise</l>
+                  <l>throwing his sisters out of doors,</l>
+                  <l>With sad lamenting cryes.</l>
+                  <l>When this they did his mother show,</l>
+                  <l>She would not beleeue he would doe so.</l>
+                  <l>But when she came vnto her house,</l>
+                  <l>and found it so indeede,</l>
+                  <l>Shee cald vnto her son and said, although her heart did bleede,</l>
+                  <l>Come downe my sonne, come downe said she,</l>
+                  <l>let in thy mother and sisters three.</l>
+                  <l>I will not let in my mother he said,</l>
+                  <l>nor sisters any one,</l>
+                  <l>The house is mine, I will it keeps,</l>
+                  <l>Therefore away begone.</l>
+                  <l>O sonne how canst thou endure to see't.</l>
+                  <l>thy mother and sisters to lye i'th stréet.</l>
+                  <l>Did not thy father by his will,</l>
+                  <l>For tearme of this my life,</l>
+                  <l>Giue me this house for to enioy, without all further strife.</l>
+                  <l>And more of all his goods said shee,</l>
+                  <l>I am Executor ioyn'd with thee.</l>
+                  <l>My father left you the house, he said,</l>
+                  <l>but this was his intent,</l>
+                  <l>That you therefore daring your life,</l>
+                  <l>Should pay me yearely rent:</l>
+                  <l>An hundred pound a yeare therefore,</l>
+                  <l>you shall giue me, or else giue it o're.</l>
+                  <l>And sith the Cities custome is,</l>
+                  <l>that you thirds must haue</l>
+                  <l>Of all my fathers moueables,</l>
+                  <l>I grant what law doth craue:</l>
+                  <l>But not a penny more will I,</l>
+                  <l>discharge of any Legacie.</l>
+                  <l>O wicked sonne, quoth shee that seekes</l>
+                  <l>thy mother thus to fleece:</l>
+                  <l>Thy father to his daughters gaue</l>
+                  <l>Three hundred pounds a peece:</l>
+                  <l>Tell me who shall their portions pay,</l>
+                  <l>appointed at their marriage day.</l>
+                  <l>Then with a scornefull smile he said,</l>
+                  <l>What talke you of so much:</l>
+                  <l>Ten pounds a peece, I will them giue,</l>
+                  <l>My charitie is such.</l>
+                  <l>Now fie vpon thee beast, quoth she,</l>
+                  <l>that thus dost deale with them and me.</l>
+                  <l>But ere that they and I will take</l>
+                  <l>this iniurie at thy hand:</l>
+                  <l>The chiefest Peeres of England shall</l>
+                  <l>the matter vnderstand:</l>
+                  <l>Nay, if you goe to that, quoth he,</l>
+                  <l>marke well what I shall tell to thee,</l>
+                  <l>Then hast a secret harlot béene,</l>
+                  <l>and this Ile proue full plaine,</l>
+                  <l>That in my Fathers life time didst</l>
+                  <l>Lewd Ruffians entertaine:</l>
+                  <l>The which did then beget of thee,</l>
+                  <l>in wicked sort these bastards thrée,</l>
+                  <l>No daughters to my father then</l>
+                  <l>were they in any wise:</l>
+                  <l>As he supposed them to be,</l>
+                  <l>Thou blinding so his eyes.</l>
+                  <l>Therefore no right at all haue they,</l>
+                  <l>to any penny giuen this day.</l>
+                  <l>When shée did heare her shamelesse sonne,</l>
+                  <l>for to defame her so,</l>
+                  <l>Shee with her louely daughters three,</l>
+                  <l>with griefe away▪ did goe.</l>
+                  <l>But how this matter out did fall,</l>
+                  <l>the second part will shew you all.</l>
+               </lg>
+               <trailer>FINIS.</trailer>
+            </div>
+            <div n="2" type="part">
+               <pb facs="tcp:192696:1"/>
+               <head>The second part of the Widdow of Watling street and her three Daughters</head>
+               <opener>To the tune of, the Wanton wife.</opener>
+               <lg>
+                  <l>THe beautifull Widdow of <hi>Watling</hi> street,</l>
+                  <l>Being thus falsely accused by her sonne,</l>
+                  <l>With her thrée daughters of sauour so sweet,</l>
+                  <l>Whose beauty the loue of many had wonne:</l>
+                  <l>With her daughters three for succour went she,</l>
+               </lg>
+               <lg>
+                  <l>vnto the Kings Counsell of Noble degrée.</l>
+                  <l>
+                     <hi>Now fie vpon falsehood, and forgerie fraile,</hi>
+                  </l>
+                  <l>
+                     <hi>For great is the truth, and it will preuaile.</hi>
+                  </l>
+                  <l>Her sonne by Writ now summoned is,</l>
+                  <l>At the Star-chamber with speed to appeare,</l>
+                  <l>To answer the vile abuses of his:</l>
+                  <l>The Lords of the Counsell the matter will heare,</l>
+                  <l>This newes being brought▪ his wits he sought,</l>
+                  <l>Which way his villany best might be wrought.</l>
+               </lg>
+               <lg>
+                  <l>Then vp and downe the Citie so faire,</l>
+                  <l>He séeketh companions to serue his turne:</l>
+                  <l>A sort of Vagabonds naked and bare,</l>
+                  <l>The which to worke murders for money are won:</l>
+                  <l>These wretches behold, for money and gold,</l>
+                  <l>He hired for witnesse his lies to vphold, &amp;c.</l>
+               </lg>
+               <lg>
+                  <l>My masters, quoth he, my mother by name,</l>
+                  <l>To be a lewd strumpet accused I haue:</l>
+                  <l>And hauing no witnesse to proue the same,</l>
+                  <l>Your ayde and asistance herein I doe craue,</l>
+                  <l>Therefore without feare, before the Lords there,</l>
+                  <l>That this thing is certaine you sixe shall it sweare.</l>
+               </lg>
+               <lg>
+                  <l>The first two quoth he shall sweare on a Booke,</l>
+                  <l>That sixteene yeares past they plainely did see,</l>
+                  <l>As they through the Garden hedge sadly did looke,</l>
+                  <l>That she in one houre was abused by three:</l>
+                  <l>And how it befell, they two marke it well,</l>
+                  <l>That iust nine moneths after she had her first Girle.</l>
+               </lg>
+               <lg>
+                  <l>The second couple shall sweare in this sort,</l>
+                  <l>That at <hi>Bristow</hi> about thirteene yeares past,</l>
+                  <l>She with her owne prentise did fall in such sport,</l>
+                  <l>That her second daughter was got at the last,</l>
+                  <l>Now trust vs quoth they wéele sweare what you say,</l>
+                  <l>Or any thing else for money this day, &amp;c.</l>
+               </lg>
+               <lg>
+                  <l>And thus the third couple their oath now shal take,</l>
+                  <l>That as at the Bath shee stayd on a day,</l>
+                  <l>For a<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h in the bones an excuse she did make,</l>
+                  <l>How shee with a Courtier the wanton did play,</l>
+                  <l>And how well you wot in that pleasant plot,</l>
+                  <l>Her dearest young daughter for certaine was got.</l>
+               </lg>
+               <lg>
+                  <l>But now my masters your names let me know,</l>
+                  <l>That I may prouide your apparell with spéed,</l>
+                  <l>Like sixe grant Citizens, so must you goe,</l>
+                  <l>The better your speeches the Nobles will heed:</l>
+                  <l>So shall I with scorne ere Saturday morne,</l>
+                  <l>Proue her a harlot, my Sisters base borne.</l>
+               </lg>
+               <lg>
+                  <l>My name is <hi>Make-shift</hi> the first man did say,</l>
+                  <l>And <hi>Francis Light-finger</hi> the second likewise:</l>
+                  <l>
+                     <hi>Cutbert Greepe▪window</hi> the third to display,</l>
+                  <l>And <hi>Rowland Robman</hi> with soule staring eyes,</l>
+                  <l>
+                     <hi>Iacke shamelesse</hi> came then with <hi>Harry steale-hen,</hi>
+                  </l>
+                  <l>You are quoth the Widow some right honest men.</l>
+               </lg>
+               <lg>
+                  <l>Before the Lords most prudent and graue,</l>
+                  <l>This wretch doth with his witnesses come,</l>
+                  <l>The Mother complaines, and Iustice doth craue,</l>
+                  <l>Of all the offences that he hath her done.</l>
+                  <l>My Lords than quoth, I pray you heare me,</l>
+                  <l>The Law for my deeds, my warrant shall be.</l>
+               </lg>
+               <lg>
+                  <l>Her sonne sayd also shee's a harlot most vilde,</l>
+                  <l>And those be her bastards that stand here in place,</l>
+                  <l>And that she hath often her body defilde,</l>
+                  <l>By very good witnesse Ile prone to her face,</l>
+                  <l>This thing of thy Mother thou oughtest to smother,</l>
+                  <l>Tis shame for a child to speake ill of his Mother.</l>
+               </lg>
+               <lg>
+                  <l>But if this matter be proued vntrue,</l>
+                  <l>And thou a false Lyar be found to tby face,</l>
+                  <l>Worse than an Infidell, Pagan, or Iew</l>
+                  <l>Thou ought'st to be punish't and pl<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>g<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>'d in this case</l>
+                  <l>And therefore draw neere and let vs beare,</l>
+                  <l>What sayes the witnesse that here doth appeare.</l>
+               </lg>
+               <lg>
+                  <l>When the first couple did come for to sweare,</l>
+                  <l>They quluered and quaked in most wondrous sort,</l>
+                  <l>The Lords very countenance did put them in feare,</l>
+                  <l>And now they knew not what to report,</l>
+                  <l>The second likewise so star'd with their eyes,</l>
+                  <l>They stammered and knew not what to deuise, &amp;c.</l>
+               </lg>
+               <lg>
+                  <l>The Lords perceiuing the case how it went,</l>
+                  <l>Did aske the last couple what they had to say,</l>
+                  <l>Who fell on their knees incontinent,</l>
+                  <l>Saying they were hired for money that day:</l>
+                  <l>Quoth they it is so the truth for to show,</l>
+                  <l>Against the good Widdow no harme we doe know.</l>
+               </lg>
+               <lg>
+                  <l>Thus was the Widdow deliuered from blame,</l>
+                  <l>With her three Daughters of beauty most bright,</l>
+                  <l>Her sonne reproached with sorrow and shame,</l>
+                  <l>Hauing his Iudgement appointed him right,</l>
+                  <l>To forfeft euen all the goods he possest,</l>
+                  <l>To loose both his eares, and banisht, so rest, &amp;c.</l>
+                  <l>When he heard his Iudgement pronounced to be,</l>
+                  <l>The feares full bitterly fell downe from his face:</l>
+                  <l>To Mother and Sisters he kneeled on his knee,</l>
+                  <l>Confessing that lucre had brought this disgrace,</l>
+                  <l>That for mine owne gaine I sought to defaine</l>
+                  <l>My Sisters three portions this lie I did faine,</l>
+               </lg>
+               <lg>
+                  <l>Therefore deare Mother forgiuenesse I craue,</l>
+                  <l>Of you and my Sisters, offended so sore:</l>
+                  <l>My body from perill if you will but saue,</l>
+                  <l>I sweare I will grieue and offend you no more.</l>
+                  <l>The Lords then replide the Law iustly tride.</l>
+                  <l>The punishment now thou art like to abide:</l>
+               </lg>
+               <lg>
+                  <l>Therefore to prison now thou shalt goe,</l>
+                  <l>Whereas thou shalt the Kings pleasure abide:</l>
+                  <l>From thence to be brought with sham<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> with woe</l>
+                  <l>To suffer the punishment due for thy pride,</l>
+                  <l>Then out of hand thou shalt vnderstand,</l>
+                  <l>That presently thou shalt be banisht the Land,</l>
+               </lg>
+               <lg>
+                  <l>Now while in prison this prisoner did rest,</l>
+                  <l>Himselfe he hanged in desperate wise:</l>
+                  <l>Such horrour of conscience possessed his brest:</l>
+                  <l>And being cast forth, the Rauens pickt out his eyes</l>
+                  <l>All Children behold what hath beene told,</l>
+                  <l>Accuse no man falsely for Lucre of Gold.</l>
+                  <l>
+                     <hi>Now fie vpon falsehood and forgery fraile,</hi>
+                  </l>
+                  <l>
+                     <hi>For great is the truth and it will preuaile.</hi>
+                  </l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed for Fr. Cowles.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
